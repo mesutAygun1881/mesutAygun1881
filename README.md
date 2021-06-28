@@ -16,6 +16,7 @@
 ## Connect with me !!
 
 - [linkedin](https://www.linkedin.com/in/mesut-aygün-0a0607198)
+- [medium blog](https://mesutaygun35.medium.com)
 - [twitter](https://twitter.com/messo88374717)
 - [Business instagram](https://www.instagram.com/swiftturk)
 - [Personel instagram](https://www.instagram.com/aygun.mesut)
