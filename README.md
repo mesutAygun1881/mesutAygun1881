@@ -12,11 +12,11 @@
 - 🤔 I’m looking for help with Swift,C and MATLAB
 - 💬 Ask me about all things iOS
 - 😄 And I love Heavy Metal and War Thunder are my favorite features.
-<br />
-<br />
 
-[linkedin](https://www.linkedin.com/in/mesut-aygün-0a0607198)
-[twitter](https://twitter.com/messo88374717)
-[instagram](https://www.instagram.com/swiftturk)
-[instagram](https://www.instagram.com/aygun.mesut)
-[youtube](https://www.youtube.com/channel/UCW9G4k-u_-JXGbjD6NIKSng)
+## Connect with me !!
+
+- [linkedin](https://www.linkedin.com/in/mesut-aygün-0a0607198)
+- [twitter](https://twitter.com/messo88374717)
+- [Business instagram](https://www.instagram.com/swiftturk)
+- [Personel instagram](https://www.instagram.com/aygun.mesut)
+- [youtube](https://www.youtube.com/channel/UCW9G4k-u_-JXGbjD6NIKSng)
