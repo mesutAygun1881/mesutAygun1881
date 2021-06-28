@@ -13,9 +13,9 @@
 - 💬 Ask me about all things iOS
 - 😄 And I love Heavy Metal and War Thunder are my favorite features.
 
-[website]: https://www.linkedin.com/in/mesut-aygün-0a0607198/
-[website]: https://twitter.com/messo88374717
-[website]: https://www.instagram.com/swiftturk/
-[website]: https://www.instagram.com/aygun.mesut/
-[website]: https://www.youtube.com/channel/UCW9G4k-u_-JXGbjD6NIKSng
+[linkedin]: https://www.linkedin.com/in/mesut-aygün-0a0607198/
+[twitter]: https://twitter.com/messo88374717
+[instagram]: https://www.instagram.com/swiftturk/
+[instagram]: https://www.instagram.com/aygun.mesut/
+[youtube]: https://www.youtube.com/channel/UCW9G4k-u_-JXGbjD6NIKSng
 -->
