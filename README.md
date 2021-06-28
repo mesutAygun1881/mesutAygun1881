@@ -12,8 +12,6 @@
 - 🤔 I’m looking for help with Swift,C and MATLAB
 - 💬 Ask me about all things iOS
 - 😄 And I love Heavy Metal and War Thunder are my favorite features.
-<br />
-<br ?>
 
 [website]: https://www.linkedin.com/in/mesut-aygün-0a0607198/
 [website]: https://twitter.com/messo88374717
