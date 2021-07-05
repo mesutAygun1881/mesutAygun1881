@@ -1,5 +1,5 @@
 
-![Mesut on instagram profile](https://github.com/mesutAygun1881/mesutAygun1881/blob/main/Ekran%20Resmi%202021-06-28%2012.48.02.png)
+
 
 ### Hi, I'm Mesut 👋
 
