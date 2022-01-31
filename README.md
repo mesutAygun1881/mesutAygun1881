@@ -18,6 +18,6 @@
 - [linkedin](https://www.linkedin.com/in/mesut-aygün-0a0607198)
 - [medium blog](https://mesutaygun35.medium.com)
 - [twitter](https://twitter.com/messo88374717)
-- [Business instagram](https://www.instagram.com/swiftturk)
+- [Business instagram](https://www.instagram.com/appcoder.35)
 - [Personel instagram](https://www.instagram.com/aygun.mesut)
 - [youtube](https://www.youtube.com/channel/UCW9G4k-u_-JXGbjD6NIKSng)
