@@ -7,7 +7,7 @@
 
 ##  My Featured Applications
 
-![chat](https://www.linkpicture.com/q/Date-kart-2.jpg)                      ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.26.png)   ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.41.png)
+![chat](https://www.linkpicture.com/q/Date-kart-2.jpg)      |     ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.26.png)   ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.41.png)
 
 ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.27.39_1.png)    ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.09.38.png)    ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.55_1.png)   
 
