@@ -1,7 +1,7 @@
 
 
 
-### Hi, I'm Mesut 👋
+### Hi everyone, I'm Mesut 👋
 
 - 🔭 I’m currently working on Apple Platforms - iOS/MacOS. I am an electrical and electronics engineer who is passionate about software. I am also have a master's degree in software engineering.You can find me from my content on my instagram profile '@appcoder.35'
 
