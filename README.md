@@ -7,7 +7,7 @@
 
 ##  My Featured Applications
 
-![chat](https://www.linkpicture.com/q/Chat.jpg)
+![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Date-kart.jpg) ![chat](https://www.linkpicture.com/q/Date-kart.jpg)  
 
 ##  I'm Husband,Father,Engineer and Developer!
 - ⚡ I’m currently learning everything!
