@@ -7,7 +7,7 @@
 
 ##  My Featured Applications
 
-![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.04_1.png)![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.30.png)![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.55.png) ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.27.39.png) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg)![chat](https://www.linkpicture.com/q/Chat.png)![chat](https://www.linkpicture.com/q/Date-kart_1.jpg)
+![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.04_2.png)![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.30_1.png)![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.55_1.png) ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.27.39_1.png) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg) ![chat](https://www.linkpicture.com/q/Chat.jpg)![chat](https://www.linkpicture.com/q/Chat.png)![chat](https://www.linkpicture.com/q/Date-kart_1.jpg)
 
 ##  I'm Husband,Father,Engineer and Developer!
 - ⚡ I’m currently learning everything!
