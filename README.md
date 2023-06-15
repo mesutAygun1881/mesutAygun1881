@@ -13,9 +13,9 @@
 
 ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.10.00.png)    ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.12.12.png)     ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.30_1.png)  
 
-![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.12.43.png)    [chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.12.53.png)    [chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.22.12.png)
+![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.12.43.png)    ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.12.53.png)    ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.22.12.png)
 
-[chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.04_2.png)  
+![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.04_2.png)  
 
 ##  I'm Husband,Father,Engineer and Developer!
 - ⚡ I’m currently learning everything!
