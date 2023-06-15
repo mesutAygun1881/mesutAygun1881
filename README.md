@@ -9,9 +9,9 @@
 
 &nbsp; ![chat](https://www.linkpicture.com/q/Date-kart-2.jpg) &nbsp; &nbsp; &nbsp; &nbsp;![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.26.png)&nbsp; &nbsp; &nbsp; &nbsp;![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.41.png)
 
-&nbsp;  ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.22.12.png) &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.09.38.png)  &nbsp; &nbsp; &nbsp; &nbsp;  ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.55_1.png)   
+&nbsp;  ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.22.12.png) &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.09.38.png)  &nbsp; &nbsp; &nbsp; &nbsp; ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.10.00.png)    
 
-&nbsp; ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.10.00.png) &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.12.12.png)  &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.30_1.png)  
+&nbsp; ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.55_1.png) &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.12.12.png)  &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.23.30_1.png)  
 
 &nbsp; ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.12.43.png)  &nbsp; &nbsp; &nbsp; &nbsp;  ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.12.53.png)  &nbsp; &nbsp; &nbsp; &nbsp; 
 
