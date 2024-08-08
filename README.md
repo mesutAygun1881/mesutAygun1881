@@ -22,15 +22,21 @@ Passionate About Software: My drive for excellence is evident in the quality of 
 Instagram Profile
 Let’s connect and explore how my skills and experience can contribute to your next project or collaboration!
 
-##  My Featured Applications
+## My Featured Applications
 
-&nbsp; ![chat](https://i.ibb.co/d2Tv3gH/Ekran-Resmi-2024-08-08-11-55-32.png) &nbsp; &nbsp;![chat](https://i.ibb.co/GdTv5FG/Ekran-Resmi-2024-08-08-11-55-48.png)&nbsp; &nbsp;![chat](https://i.ibb.co/6NF06YP/Ekran-Resmi-2024-08-08-11-59-20.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://i.ibb.co/d2Tv3gH/Ekran-Resmi-2024-08-08-11-55-32.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/GdTv5FG/Ekran-Resmi-2024-08-08-11-55-48.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/6NF06YP/Ekran-Resmi-2024-08-08-11-59-20.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/RgpkcWQ/Ekran-Resmi-2024-08-08-11-59-41.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/m0Cv0Pt/Ekran-Resmi-2024-08-08-12-00-09.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/TRbFVHK/Ekran-Resmi-2024-08-08-11-57-28.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/27wrktc/Ekran-Resmi-2024-08-08-11-58-57.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/VgC2kzP/Ekran-Resmi-2024-08-08-11-59-29.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/jzmqTtp/Ekran-Resmi-2024-08-08-11-52-35.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/8BrshKJ/Ekran-Resmi-2024-08-08-11-52-49.png" width="200" height="auto" style="flex: 1 1 30%;">
+</div>
 
-&nbsp;  ![chat](https://i.ibb.co/RgpkcWQ/Ekran-Resmi-2024-08-08-11-59-41.png) &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](https://i.ibb.co/m0Cv0Pt/Ekran-Resmi-2024-08-08-12-00-09.png)  &nbsp; &nbsp; &nbsp; &nbsp; ![chat](https://i.ibb.co/TRbFVHK/Ekran-Resmi-2024-08-08-11-57-28.png)    
-
-&nbsp; ![chat](https://i.ibb.co/27wrktc/Ekran-Resmi-2024-08-08-11-58-57.png) &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](8)  &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](https://i.ibb.co/VgC2kzP/Ekran-Resmi-2024-08-08-11-59-29.png)  
-
-&nbsp; ![chat](https://i.ibb.co/jzmqTtp/Ekran-Resmi-2024-08-08-11-52-35.png)  &nbsp; &nbsp; &nbsp; &nbsp;  ![chat](https://i.ibb.co/8BrshKJ/Ekran-Resmi-2024-08-08-11-52-49.png)  &nbsp; &nbsp; &nbsp; &nbsp; 
 
 
 
