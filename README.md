@@ -42,10 +42,15 @@ Let’s connect and explore how my skills and experience can contribute to your 
 
 ##  Expert Native Mobile Developer!
 ⚡ Currently Learning & Evolving: With 5 years of hands-on experience in iOS development, I’m always expanding my skill set. I specialize in UIKit, SwiftUI, and Java, and have successfully launched multiple applications on the App Store. My expertise extends across Apple technologies and mobile app development, where I strive to innovate and create impactful solutions.
+
 👯 Open for Collaboration: I thrive in collaborative environments and am always excited to work with others on new projects. Whether you’re looking for a development partner or need help with a tech challenge, let’s connect and make great things happen together!
+
 🤔 Seeking Assistance in Swift,Java: While I’m well-versed in iOS development, I’m keen to learn more about Swift, Java. If you have insights or resources to share, I’d love to hear from you!
+
 💬 Expert Mobile Development: Feel free to ask me anything about iOS development. With a strong track record and deep knowledge in UIKit and SwiftUI, I’m here to share my expertise and help you navigate the world of mobile apps.
+
 🌟 Proven Success on Upwork: As a freelancer on Upwork, I’ve achieved a remarkable 95% job success score, underscoring my dedication to delivering exceptional results and exceeding client expectations.
+
 🎸 Passionate About Heavy Metal & Enduro: Outside of tech, I’m a big fan of Heavy Metal music and Motorcycle. These are my favorite ways to unwind and enjoy some downtime.
 
 ## Connect with me !!
