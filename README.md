@@ -25,11 +25,11 @@ Let’s connect and explore how my skills and experience can contribute to your 
 ## My Featured Applications
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://i.ibb.co/RgpkcWQ/Ekran-Resmi-2024-08-08-11-59-41.png" width="200" height="auto" style="flex: 1 1 30%;">
+    <img src="https://i.ibb.co/m0Cv0Pt/Ekran-Resmi-2024-08-08-12-00-09.png" width="200" height="auto" style="flex: 1 1 30%;">
     <img src="https://i.ibb.co/d2Tv3gH/Ekran-Resmi-2024-08-08-11-55-32.png" width="200" height="auto" style="flex: 1 1 30%;">
     <img src="https://i.ibb.co/GdTv5FG/Ekran-Resmi-2024-08-08-11-55-48.png" width="200" height="auto" style="flex: 1 1 30%;">
     <img src="https://i.ibb.co/6NF06YP/Ekran-Resmi-2024-08-08-11-59-20.png" width="200" height="auto" style="flex: 1 1 30%;">
-    <img src="https://i.ibb.co/RgpkcWQ/Ekran-Resmi-2024-08-08-11-59-41.png" width="200" height="auto" style="flex: 1 1 30%;">
-    <img src="https://i.ibb.co/m0Cv0Pt/Ekran-Resmi-2024-08-08-12-00-09.png" width="200" height="auto" style="flex: 1 1 30%;">
     <img src="https://i.ibb.co/TRbFVHK/Ekran-Resmi-2024-08-08-11-57-28.png" width="200" height="auto" style="flex: 1 1 30%;">
     <img src="https://i.ibb.co/27wrktc/Ekran-Resmi-2024-08-08-11-58-57.png" width="200" height="auto" style="flex: 1 1 30%;">
     <img src="https://i.ibb.co/VgC2kzP/Ekran-Resmi-2024-08-08-11-59-29.png" width="200" height="auto" style="flex: 1 1 30%;">
@@ -40,16 +40,18 @@ Let’s connect and explore how my skills and experience can contribute to your 
 
 
 
-##  I'm Husband,Father,Engineer and Developer!
-- ⚡ I’m currently learning everything!
-- 👯 Always looking to collaborate..
-- 🤔 I’m looking for help with Swift,C and MATLAB
-- 💬 Ask me about all things iOS
-- 😄 And I love Heavy Metal and War Thunder are my favorite features.
+##  Expert Native Mobile Developer!
+⚡ Currently Learning & Evolving: With 5 years of hands-on experience in iOS development, I’m always expanding my skill set. I specialize in UIKit, SwiftUI, and Java, and have successfully launched multiple applications on the App Store. My expertise extends across Apple technologies and mobile app development, where I strive to innovate and create impactful solutions.
+👯 Open for Collaboration: I thrive in collaborative environments and am always excited to work with others on new projects. Whether you’re looking for a development partner or need help with a tech challenge, let’s connect and make great things happen together!
+🤔 Seeking Assistance in Swift,Java: While I’m well-versed in iOS development, I’m keen to learn more about Swift, Java. If you have insights or resources to share, I’d love to hear from you!
+💬 Expert Mobile Development: Feel free to ask me anything about iOS development. With a strong track record and deep knowledge in UIKit and SwiftUI, I’m here to share my expertise and help you navigate the world of mobile apps.
+🌟 Proven Success on Upwork: As a freelancer on Upwork, I’ve achieved a remarkable 95% job success score, underscoring my dedication to delivering exceptional results and exceeding client expectations.
+🎸 Passionate About Heavy Metal & Enduro: Outside of tech, I’m a big fan of Heavy Metal music and Motorcycle. These are my favorite ways to unwind and enjoy some downtime.
 
 ## Connect with me !!
 
 - [linkedin](https://www.linkedin.com/in/mesut-aygün-0a0607198)
+-  [upwork](https://www.upwork.com/freelancers/~015c8c0f48f3f2dd68)
 - [medium blog](https://mesutaygun35.medium.com)
 - [twitter](https://twitter.com/messo88374717)
 - [Business instagram](https://www.instagram.com/appcoder.35)
