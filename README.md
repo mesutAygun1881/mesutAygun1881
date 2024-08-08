@@ -24,7 +24,7 @@ Let’s connect and explore how my skills and experience can contribute to your 
 
 ##  My Featured Applications
 
-&nbsp; ![chat]([https://i.ibb.co/Z8FhtXr/Ekran-Resmi-2024-08-07-16-55-52.png](https://i.ibb.co/Z8FhtXr/Ekran-Resmi-2024-08-07-16-55-52.png)) &nbsp; &nbsp; &nbsp; &nbsp;![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.26.png)&nbsp; &nbsp; &nbsp; &nbsp;![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.41.png)
+&nbsp; ![chat](https://i.ibb.co/Z8FhtXr/Ekran-Resmi-2024-08-07-16-55-52.png) &nbsp; &nbsp; &nbsp; &nbsp;![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.26.png)&nbsp; &nbsp; &nbsp; &nbsp;![chat](https://www.linkpicture.com/q/Ekran-Resmi-2023-06-15-11.29.41.png)
 
 &nbsp;  ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.22.12.png) &nbsp; &nbsp; &nbsp; &nbsp;   ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.09.38.png)  &nbsp; &nbsp; &nbsp; &nbsp; ![chat](https://www.linkpicture.com/q/Simulator-Screenshot-iPhone-14-Pro-2023-06-15-at-11.10.00.png)    
 
