@@ -3,24 +3,47 @@
 
 ### Hi everyone, I'm Mesut 👋
 
-Hello, I'm a Passionate Software Engineer with a Strong Electrical Engineering Background!
-As an Electrical and Electronics Engineer with a Master’s Degree in Software Engineering, I bring a unique blend of analytical thinking and creative problem-solving to my software development work. With 5 years of experience specializing in iOS development, I have honed my skills in crafting sophisticated applications using UIKit and SwiftUI, and have a solid foundation in Java.
+I'm a Dedicated Software Engineer with Expertise in iOS Development
 
-My journey in software development has led me to create several iOS applications that are actively used on the App Store, reflecting my commitment to quality and user experience. Beyond my technical expertise, I have a successful track record of delivering impactful projects on Upwork, where I've consistently met and exceeded client expectations.
+With a Master’s Degree in Software Engineering and over 5 years of hands-on experience in iOS development, I’m passionate about creating innovative and user-focused applications. My expertise spans a wide range of Apple technologies, enabling me to build sophisticated solutions and deliver exceptional user experiences.
 
-🔧 Technical Expertise:
+## My Expertise Includes:
+iOS Development: Mastery of UIKit and SwiftUI to design and implement intuitive and responsive user interfaces.
+Apple Technologies:
+MapKit: Integrating dynamic and interactive maps into applications.
+StoreKit: Implementing seamless in-app purchases and subscriptions.
+CoreData: Efficiently managing and persisting application data.
+Combine: Utilizing reactive programming for efficient data handling and event management.
+ARKit: Creating immersive augmented reality experiences.
+HealthKit: Integrating health-related data and functionalities.
+Push Notifications: Implementing reliable and user-engaging notification systems.
+SwiftUI: Leveraging declarative UI frameworks for modern and responsive design.
+CoreML: Integrating machine learning models into applications.
+Vision: Utilizing image analysis and computer vision features.
+Speech: Implementing speech recognition and synthesis.
+SiriKit: Integrating Siri functionalities and voice interactions.
+CloudKit: Using iCloud for data storage and synchronization.
+WidgetKit: Developing interactive widgets for the home screen.
+Metal: Utilizing low-level graphics and compute API for high-performance graphics.
+Network.framework: Managing network tasks and connections with advanced network APIs.
+Programming Languages: Proficient in Swift and Java, with a deep understanding of their ecosystems and best practices.
+Successful App Launches: Numerous applications published on the App Store, reflecting my commitment to quality and user satisfaction.
+Freelance Achievements: A proven track record on Upwork with a 95% job success score, highlighting my ability to exceed client expectations and deliver outstanding results.
 
-iOS Development: Mastery of UIKit and SwiftUI to build intuitive and responsive user interfaces.
-Programming Languages: Proficient in Swift and Java, with a deep understanding of their respective ecosystems.
-Freelance Success: Numerous successful projects on Upwork, showcasing my ability to deliver high-quality solutions.
-🌟 What Sets Me Apart:
+##My Published Applications:
 
-Innovative Problem Solver: My background in electrical engineering empowers me to tackle complex challenges with creative solutions.
-Passionate About Software: My drive for excellence is evident in the quality of the applications I develop and the positive feedback from clients.
-📱 Connect with Me:
+- [MathAi Problem Solver](https://apps.apple.com/tr/app/mathai-problem-solver/id6504986572?l=tr).
+- [Sniffer]([https://www.linkedin.com/in/mesut-aygün-0a0607198](https://apps.apple.com/us/app/sniffer-dating-new-people/id1627725624)).
+- [TaskAi](https://apps.apple.com/tr/app/taskal/id6504280565?l=tr).
+-  [Nobetci Eczane](https://apps.apple.com/tr/app/n%C3%B6bet%C3%A7i-eczane-81-i-l-t%C3%BCrkiye/id6596762943?l=tr).
+- [Teacher Retirement Countdown](https://apps.apple.com/tr/app/teacher-retirement-countdown/id6517355415?l=tr).
+What Sets Me Apart:
+Innovative Problem Solver: Leveraging my background and expertise to tackle complex challenges with creative and effective solutions.
+Client-Centric Approach: Committed to understanding and fulfilling client needs, ensuring satisfaction and successful project outcomes.
+📱 Let’s Connect:
 
 Instagram Profile
-Let’s connect and explore how my skills and experience can contribute to your next project or collaboration!
+I’m excited to connect and explore how my skills and experience can contribute to your next project or collaboration. Let’s create something amazing together!
 
 ## My Featured Applications
 
