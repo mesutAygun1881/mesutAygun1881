@@ -30,14 +30,20 @@ Programming Languages: Proficient in Swift and Java, with a deep understanding o
 Successful App Launches: Numerous applications published on the App Store, reflecting my commitment to quality and user satisfaction.
 Freelance Achievements: A proven track record on Upwork with a 95% job success score, highlighting my ability to exceed client expectations and deliver outstanding results.
 
-##My Published Applications:
+## My Published Applications:
 
 - [MathAi Problem Solver](https://apps.apple.com/tr/app/mathai-problem-solver/id6504986572?l=tr).
-- [Sniffer]([https://www.linkedin.com/in/mesut-aygün-0a0607198](https://apps.apple.com/us/app/sniffer-dating-new-people/id1627725624)).
+- [Sniffer](https://apps.apple.com/us/app/sniffer-dating-new-people/id1627725624).
 - [TaskAi](https://apps.apple.com/tr/app/taskal/id6504280565?l=tr).
 -  [Nobetci Eczane](https://apps.apple.com/tr/app/n%C3%B6bet%C3%A7i-eczane-81-i-l-t%C3%BCrkiye/id6596762943?l=tr).
 - [Teacher Retirement Countdown](https://apps.apple.com/tr/app/teacher-retirement-countdown/id6517355415?l=tr).
-What Sets Me Apart:
+
+ ## Additional Skills:
+OpenAI APIs: Leveraging OpenAI’s capabilities to integrate advanced AI functionalities into applications.
+Firebase Technologies: Utilizing Firebase for real-time databases, authentication, analytics, and cloud functions.
+AWS: Implementing solutions using Amazon Web Services for scalable cloud computing, storage, and deployment.
+Android Development: Developing Android applications using Java, with a strong understanding of Android’s ecosystem and best practices.
+## What Sets Me Apart:
 Innovative Problem Solver: Leveraging my background and expertise to tackle complex challenges with creative and effective solutions.
 Client-Centric Approach: Committed to understanding and fulfilling client needs, ensuring satisfaction and successful project outcomes.
 📱 Let’s Connect:
